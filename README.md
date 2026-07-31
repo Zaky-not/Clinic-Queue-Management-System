@@ -94,7 +94,7 @@ Daily Report
 ## 🏠 Main Menu
 
 <p align="center">
-<img src="./assets/Clinic-Menu.png" width="900">
+  <img src="assets/Clinic-Menu.png" alt="Main Menu" width="650">
 </p>
 
 The dashboard provides a real-time overview of the clinic, including the current patient being examined, remaining queues, and available menu options.
@@ -104,7 +104,7 @@ The dashboard provides a real-time overview of the clinic, including the current
 ## 👤 Patient Registration
 
 <p align="center">
-<img src="./assets/Clinic-Registration.png" width="900">
+  <img src="assets/Clinic-Registration.png" alt="Patient Registration" width="650">
 </p>
 
 Patients can be registered by entering personal information, medical complaints, and emergency status. The system automatically places them into the appropriate queue.
@@ -114,7 +114,7 @@ Patients can be registered by entering personal information, medical complaints,
 ## 📋 Queue Management
 
 <p align="center">
-<img src="./assets/Clinic-Queue.png" width="900">
+  <img src="assets/Clinic-Queue.png" alt="Queue Management" width="650">
 </p>
 
 Patients are separated into **Priority Queue (Heap)** and **Regular Queue (Deque)** based on emergency status and age.
@@ -124,7 +124,7 @@ Patients are separated into **Priority Queue (Heap)** and **Regular Queue (Deque
 ## 🩺 Medical Procedure
 
 <p align="center">
-<img src="./assets/Medical-Procedure.png" width="900">
+  <img src="assets/Medical-Procedure.png" alt="Medical Procedure" width="650">
 </p>
 
 Doctors can record treatments, prescriptions, and consultation fees. Medical records are stored using a **Stack**, allowing the latest treatment to be undone.
@@ -134,13 +134,12 @@ Doctors can record treatments, prescriptions, and consultation fees. Medical rec
 ## 📊 Daily Report
 
 <p align="center">
-<img src="./assets/Clinic-Report.png" width="900">
+  <img src="assets/Clinic-Report.png" alt="Daily Report" width="650">
 </p>
 
 Generate reports showing patient information, transaction history, and sorted patient data.
 
 ---
-
 # 📂 Project Structure
 
 ```text

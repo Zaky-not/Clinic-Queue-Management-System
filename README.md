@@ -124,7 +124,7 @@ Patients are separated into **Priority Queue (Heap)** and **Regular Queue (Deque
 ## 🩺 Medical Procedure
 
 <p align="center">
-  <img src="assets/Medical-Procedure.png" alt="Medical Procedure" width="650">
+  <img src="assets/Medical-Procedure.png" alt="Medical Procedure" width="500">
 </p>
 
 Doctors can record treatments, prescriptions, and consultation fees. Medical records are stored using a **Stack**, allowing the latest treatment to be undone.
